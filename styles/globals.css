@@ -13,7 +13,7 @@ P{
     text-align: justify;
 }
 
-.MuiInputBase-input, .MuiInputBase-root  {
+.MuiInputBase-input{
     background-color: white;
   }
 
