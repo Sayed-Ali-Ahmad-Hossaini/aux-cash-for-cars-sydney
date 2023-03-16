@@ -13,13 +13,13 @@ P{
     text-align: justify;
 }
 
-.MuiInputBase-input{
+.MuiInputBase-root, .MuiFilledInput-root, .MuiInputBase-multiline, .MuiInputBase-colorPrimary, .MuiFilledInput-underline{
     background-color: white;
   }
 
-  .MuiInputBase-input:hover, .MuiInputBase-root:hover{
+  .MuiInputBase-root:hover, .MuiFilledInput-root:hover, .MuiInputBase-multiline:hover, .MuiInputBase-colorPrimary:hover, .MuiFilledInput-underline:hover{
     background-color: white;
   }
- 
+
   
   
